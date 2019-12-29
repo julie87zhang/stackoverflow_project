@@ -12,4 +12,4 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 
 ## Results
-The main findings of the code can be found at the post. 
+The main findings of the code can be found at the post https://juliedata.science.blog/2019/12/29/example-post/.
