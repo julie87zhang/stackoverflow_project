@@ -12,4 +12,5 @@ There are 3 notebooks available here to showcase work related to the above quest
 
 
 ## Results
+After analysis, we found in terms of educational background, developers tend to hold diploma or master degree and doctoral degree holders have the highest average salary, however we also found individuals can increase their salaries by joining bootcamp. Most popular SelfTaughtTypes of respondents are via self taught, online course and on job training, and they tend to prefer to use official documentation and stackoverflow to learn. And for the top key features to predict job satisfaction, career satisfaction is the most correlated feature, which makes a lot of sense, since if people don’t satisfy with their career and they will also not satisfy with the job in general, and other predictive features are job seeking status, employment status, hours per week and if can work remotely. 
 The main findings of the code can be found at the post https://juliedata.science.blog/2019/12/29/example-post/.
